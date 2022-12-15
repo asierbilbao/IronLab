@@ -4,7 +4,7 @@ More info about Google Lightweight MMM: https://github.com/google/lightweight_mm
 
 In order to build the model, we will use a dataset found in Kaggle that contains the marketing spend per Adgroupl, the revenue and media metrics between November 2021 and January 2022. 
 
-Dataset: https://www.kaggle.com/search?q=advertising
+Dataset: https://www.kaggle.com/datasets/saicharansirangi/adanalyse
 
 Steps in the project:
 
